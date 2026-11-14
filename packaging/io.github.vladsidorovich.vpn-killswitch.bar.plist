@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>io.github.vladsidorovich.vpn-killswitch.bar</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>__HOME__/Applications/KillSwitchBar.app/Contents/MacOS/KillSwitchBar</string>
+  </array>
+  <key>RunAtLoad</key><true/>
+  <!-- Quit from the menu exits with status 0 and stays quit; a crash is relaunched. -->
+  <key>KeepAlive</key>
+  <dict><key>SuccessfulExit</key><false/></dict>
+  <key>LimitLoadToSessionType</key><string>Aqua</string>
+  <key>ProcessType</key><string>Interactive</string>
+</dict>
+</plist>

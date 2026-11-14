@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceUUID": "00000000-0000-4000-8000-000000000001",
+  "serviceName": "My VPN",
+  "profile": "l2tp",
+  "servers": ["vpn.example.com"],
+  "endpointDNS": "resolver",
+  "resolvers": ["192.0.2.53"],
+  "exemptDestinations": [],
+  "allowLAN": false,
+  "dhcpServers": [],
+  "maxPauseSeconds": 1800,
+  "locked": true
+}
