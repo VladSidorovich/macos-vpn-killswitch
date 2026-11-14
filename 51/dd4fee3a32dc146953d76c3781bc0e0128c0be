@@ -1,0 +1,145 @@
+.gitignore
+  s_b0c1cdcf31e182::t_78a96a98b2f4be 1-5
+LICENSE
+  s_bec32ecd465250::t_518b2125456140 1-21
+Package.swift
+  s_2ef158ee3402f5::t_40920b1b86f4dd 1-29
+README.md
+  s_4cf178bcf32c47::t_8348a8e0891c8a 1-82
+Sources/KillSwitchBar/AdminRunner.swift
+  s_b0c1cdcf31e182::t_7082cb454cfa08 1-43
+Sources/KillSwitchBar/AppActions.swift
+  s_b0c1cdcf31e182::t_6b337dc0af80c0 1-66
+Sources/KillSwitchBar/Notifier.swift
+  s_b0c1cdcf31e182::t_8a9735db61eb22 1-23
+Sources/KillSwitchBar/Poller.swift
+  s_b0c1cdcf31e182::t_a7c550ebfc5907 1-48
+Sources/KillSwitchBar/StatusController.swift
+  s_b0c1cdcf31e182::t_8723d78c9eb425 1-110
+Sources/KillSwitchBar/StatusIcons.swift
+  s_b0c1cdcf31e182::t_ff415c383f9409 1-78
+Sources/KillSwitchBar/TrialPanel.swift
+  s_b0c1cdcf31e182::t_7a4f60df03ef4e 1-54
+Sources/KillSwitchBar/Views.swift
+  s_b0c1cdcf31e182::t_27e16b682ad7f7 1-81
+Sources/KillSwitchBar/main.swift
+  s_b0c1cdcf31e182::t_64a5c919af6133 1-85
+Sources/KillSwitchClient/Actions.swift
+  s_b0c1cdcf31e182::t_9a07461e71e502 1-67
+Sources/KillSwitchClient/DaemonClient.swift
+  s_b0c1cdcf31e182::t_8d8039232b8929 1-88
+Sources/KillSwitchClient/MenuPlan.swift
+  s_b0c1cdcf31e182::t_d3cf6a3edd5866 1-67
+Sources/KillSwitchClient/PrivilegedCommand.swift
+  s_b0c1cdcf31e182::t_6702734e223a9f 1-81
+Sources/KillSwitchClient/UIState.swift
+  s_2ef158ee3402f5::t_fba1696f2c5b81 1-115
+Sources/KillSwitchCore/Config.swift
+  s_4cf178bcf32c47::t_ebe3dcb71c5cd1 1-118
+Sources/KillSwitchCore/DaemonSupport.swift
+  s_2ef158ee3402f5::t_d9b8deb07f3ffe 1-131
+Sources/KillSwitchCore/PFMainRuleset.swift
+  s_2ef158ee3402f5::t_b9de7f90da94ac 1-36
+Sources/KillSwitchCore/RulesetBuilder.swift
+  s_2ef158ee3402f5::t_a085d4b9ffd123 1-94
+Sources/KillSwitchCore/StateMachine.swift
+  s_4cf178bcf32c47::t_563e45e3e5569d 1-104
+Sources/KillSwitchCore/VPNMatcher.swift
+  s_b0c1cdcf31e182::t_6bdfc38f17bd95 1-65
+Sources/KillSwitchDaemon/Daemon.swift
+  s_2ef158ee3402f5::t_7097417df274a4 1-234
+Sources/KillSwitchDaemon/PF.swift
+  s_2ef158ee3402f5::t_495ead0dec8b9f 1-107
+Sources/killswitchd/IPCServer.swift
+  s_2ef158ee3402f5::t_c8cddbd86e6af9 1-101
+Sources/killswitchd/main.swift
+  s_2ef158ee3402f5::t_07aa510e02514c 1-114
+Sources/ksctl/main.swift
+  s_b0c1cdcf31e182::t_01a43c5348e9c7 1-102
+Sources/ksselftest/main.swift
+  s_4cf178bcf32c47::t_cda5bcb0bae3d3 1-767
+assets/AppIcon.svg
+  s_b0c1cdcf31e182::t_691756d8aab731 1-19
+assets/menubar-blocked.svg
+  s_b0c1cdcf31e182::t_f87032b70377e0 1-4
+assets/menubar-off.svg
+  s_b0c1cdcf31e182::t_0594a3ab0db2f6 1-3
+assets/menubar-protected.svg
+  s_b0c1cdcf31e182::t_d2c44070d0df4d 1-3
+config/config.example.json
+  s_4cf178bcf32c47::t_96c95b7984359e 1-14
+docs/DESIGN.md
+  s_4cf178bcf32c47::t_4659af460420ec 1-134
+docs/RECOVERY.md
+  s_4cf178bcf32c47::t_fb21dad4c63633 1-30
+docs/TROUBLESHOOTING.md
+  s_4cf178bcf32c47::t_f9b0dd24afb855 1-54
+packaging/KillSwitchBar-Info.plist
+  s_b0c1cdcf31e182::t_5624d8cc3b120e 1-17
+packaging/io.github.vladsidorovich.vpn-killswitch.bar.plist
+  s_b0c1cdcf31e182::t_0c859fce0a7557 1-17
+packaging/io.github.vladsidorovich.vpn-killswitch.plist
+  s_b0c1cdcf31e182::t_d354aeb48c6bda 1-17
+prototype/killswitch.py
+  s_b0c1cdcf31e182::t_159aac6bb3d5c5 1-138
+scripts/build-app.sh
+  s_b0c1cdcf31e182::t_5896f5572f46b0 1-19
+scripts/diagnose-reconnect.sh
+  s_bec32ecd465250::t_26d06977e4c1ef 1-104
+scripts/install-app.sh
+  s_b0c1cdcf31e182::t_91b6ca5a1f8cab 1-27
+scripts/install.sh
+  s_b0c1cdcf31e182::t_3b701405bf8fff 1-50
+scripts/make-icons.sh
+  s_b0c1cdcf31e182::t_a72612663b0309 1-16
+scripts/panic.sh
+  s_b0c1cdcf31e182::t_fafcda62820d2d 1-12
+scripts/render-icon.swift
+  s_b0c1cdcf31e182::t_05e943109ae636 1-57
+scripts/trial.sh
+  s_b0c1cdcf31e182::t_fc6ea611a8b22e 1-35
+scripts/uninstall-app.sh
+  s_b0c1cdcf31e182::t_00d00e9db4ed9f 1-10
+scripts/uninstall.sh
+  s_b0c1cdcf31e182::t_74a44ad8dfd7cd 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "51dd4fee3a32dc146953d76c3781bc0e0128c0be",
+  "prompts": {},
+  "sessions": {
+    "s_2ef158ee3402f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a5f3c5e0-2961-4260-bb17-0381bfafdb73",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Vladislav Sidorovich <vladsidorovi4@gmail.com>"
+    },
+    "s_4cf178bcf32c47": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07718210-8c4e-49cb-a77b-26810b638ede",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Vladislav Sidorovich <vladsidorovi4@gmail.com>"
+    },
+    "s_b0c1cdcf31e182": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1324fbeb-ae90-4163-aa74-72f825bf8e26",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Vladislav Sidorovich <vladsidorovi4@gmail.com>"
+    },
+    "s_bec32ecd465250": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bbb732cb-deb6-4553-acc2-59cdc3ed33f1",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Vladislav Sidorovich <vladsidorovi4@gmail.com>"
+    }
+  }
+}
